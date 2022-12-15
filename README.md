@@ -1,2 +1,2 @@
 # project-char_count
-Character count application as you type in !
+This application counts characters as you type in !
